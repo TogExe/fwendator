@@ -3,7 +3,8 @@
 
 welp im kinda lazy to edit the readme so heres how it looks (also its more interactive)
 ![e](https://github.com/TogExe/fwendator/blob/master/images/eee.png?raw=true)
-here are stuff from the past my update hasn't changed much
+---
+## here are stuff from the main branch
 <img src="https://github.com/Escartem/fwendator/blob/master/images/graph.png?raw=true" />
 
 ---
