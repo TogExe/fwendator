@@ -1,5 +1,6 @@
 
 welp im kinda lazy to edit the readme so heres how it looks (also its more interactive)
+![e](https://github.com/TogExe/fwendator/blob/master/images/eee.png?raw=true)
 # fwendator ✨
 ### Generate an interactive graph of all your discord friends and the relations between them
 <img src="https://github.com/Escartem/fwendator/blob/master/images/graph.png?raw=true" />
