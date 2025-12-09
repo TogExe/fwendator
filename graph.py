@@ -1,13 +1,20 @@
 import json
 import os
 import requests
+import tkinter as tk
 from pyvis.network import Network
 from PIL import Image, ImageDraw
 from io import BytesIO
 from urllib.parse import urlparse
 
+cwd = os.getcwd()
+# select file
+root = tk.Tk()
+root.withdraw()
+filename = filedialog.askopenfilename(initialdir=cwd, title="Choose your generated json file", filetypes=[("JSON file", "*.json")])
+
 # Load JSON data
-with open('friends.json', 'r') as f:
+with open(filename, 'r') as f:
     friends = json.load(f)
 
 # Create a directory to store avatars

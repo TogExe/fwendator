@@ -27,7 +27,7 @@
 
 1) open [discord](https://discord.com/app) on your browser
 2) open the devtools with `F12` or `ctrl + shift + i`
-3) go to the console tab and paste this [code](https://raw.githubusercontent.com/Escartem/fwendator/master/getFriends.min.js)
+3) go to the console tab and paste this [code](https://raw.githubusercontent.com/Escartem/fwendator/master/getFriends.js)
 
 I know that discord will show many warnings about not pasting random code into the console, and they are right, never paste code that you don't understand in random places. 
 
